@@ -13,7 +13,7 @@ A modern, role-based university management system for administrators, department
 [![License](https://img.shields.io/badge/License-MIT-22c55e.svg)](#-license)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-2563eb.svg)](#-contributing)
 
-[Preview Demo]((https://coligo-ums.vercel.app/)) · [Features](#-features) · [Tech Stack](#-tech-stack) · [Getting Started](#-getting-started) · [Demo Accounts](#-demo-accounts) · [Architecture](#-architecture) · [Roadmap](#-roadmap) · [Contributing](#-contributing)
+[Preview Demo](https://coligo-ums.vercel.app/) · [Features](#-features) · [Tech Stack](#-tech-stack) · [Getting Started](#-getting-started) · [Demo Accounts](#-demo-accounts) · [Architecture](#-architecture) · [Roadmap](#-roadmap) · [Contributing](#-contributing)
 
 </div>
 
